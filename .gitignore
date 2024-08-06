@@ -1,0 +1,11 @@
+# Ignore everything by default
+.vscode/
+*
+
+# Allow specific files with certain extensions (modify these as needed)
+!.gitignore
+!*.c
+!*.cpp
+!*.md
+!*/
+
